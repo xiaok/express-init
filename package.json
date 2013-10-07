@@ -1,0 +1,20 @@
+{
+  "name": "init",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "ejs": "*",
+    "mysql": "2.0.0-alpha8",
+    "connect-mysql": "*",
+    "connect-flash": "*",
+    "weixin-robot": "~0.4.0",
+    "mocha": "1.11.0",
+    "underscore":"*",
+    "eventproxy":"*",
+    "express-load":"*"
+  }
+}
